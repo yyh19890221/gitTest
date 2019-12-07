@@ -2,3 +2,5 @@ hello world !
 local edit 2
 remote edit 2
 
+tag v1.0
+
